@@ -30,7 +30,7 @@ const CONFIG = {
         second: {
             text: "Do you love little old me?",                          // For the love meter
             startText: "Yes!",                                   // Text before the percentage
-            nextBtn: "Onwards! (tried thinking of somethign corny)"                                         // Text for the next button
+            nextBtn: "Onwards! (tried thinking of something corny)"                                         // Text for the next button
         },
         third: {
             text: "With the amount of time we've been freinds then best friends and finally in a steamy romantic reletionship I hope I have the right to ask you if will be my valetine?", // The big question!
@@ -43,7 +43,7 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "YIPIEEEEEEE",  // Shows when they go past 5000%
-        high: "Hooray",              // Shows when they go past 1000%
+        high: "more more more more",              // Shows when they go past 1000%
         normal: "yay"                           // Shows when they go past 100%
     },
 
