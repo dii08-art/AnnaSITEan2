@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Onwards! (tried thinking of something corny)"                                         // Text for the next button
         },
         third: {
-            text: "With the amount of time we've been freinds then best friends and finally in a steamy romantic reletionship I hope I have the right to ask you if will be my valetine?", // The big question!
+            text: "With the amount of time we've been friends then best friends and finally in a steamy romantic relationship I hope I have the right to ask you if will be my valetine?", // The big question!
             yesBtn: "Yes! Oh danny yes! Yes! Yes!",                                             // Text for "Yes" button
             noBtn: "No we're breaking up."                                                 // Text for "No" button
         }
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay, you've made this brown boy happy with your answer :) ",
         message: "Now come kiss me on my hot wet steamy mouth...",
-        emojis: "💗💖💋💗💝💋❤️💕"  // These will bounce around
+        emojis: "I love you very much Anna ❤︎⁠"  // These will bounce around
     },
 
     // Color scheme for the website
